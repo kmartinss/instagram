@@ -1,0 +1,47 @@
+body {
+    background-color: #fafafa;
+}
+
+.screen {
+    height: 700px;
+}
+
+.user-input {
+    margin-top: 5pc;
+}
+
+
+fieldset {
+    width: 60%;
+    border: 1px solid silver !important;
+}
+
+section.login {
+    background-color: #ffffff;
+}
+
+.logo {
+    height: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -10px;
+}
+
+input {
+    width: 80% !important;
+    height: 40px !important;
+    margin-bottom: 5px !important;
+}
+
+.submit-button {
+    margin-top: 10px !important;
+    width: 80%;
+    font-weight: bold !important;
+    color: #ffffff !important;
+    background-color: #3995f6;
+    border: 0;
+    border-radius: 4px;
+    height: 30px;
+}
+
