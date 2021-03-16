@@ -1,9 +1,10 @@
 body {
-    background-color: #fafafa;
+    background-color: #fafafa !important;
 }
 
 .screen {
     height: 700px;
+    margin-left: 100px;
 }
 
 .user-input {
@@ -15,6 +16,7 @@ fieldset {
     width: 60%;
     border: 1px solid silver !important;
     padding-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 section.login {
@@ -49,6 +51,14 @@ input {
 
 .facebook-login {
     color: #385185;
+}
+
+form {
+    margin-bottom: 10px;
+}
+
+.buttons-download {
+    width: 150px;
 }
 
 
